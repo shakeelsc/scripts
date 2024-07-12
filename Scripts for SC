@@ -24,6 +24,13 @@
 ///FAQs///
 [faq]Sample Question 1|=|Sample Answer 1|SEP|Sample Question 2|=|Sample Answer 2[/faq]
 
+///Short Summary///
+<div class="summary-blog">
+<h2>Short Summary</h2>
+<ul>
+     <li>for bullets points</li></ul>
+</div>
+
 ///Free Tools Code will be given on request from Contact Form///
 
 
