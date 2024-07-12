@@ -1,0 +1,29 @@
+///Current CTA///
+<div class="blog-cta-inline">
+    <div>
+    <h3>/h3>
+    <h5></h5>
+    </div>
+    <div style="display: inline-flex;"><a href="https://www.socialchamp.io/signup?utm_source=Blog&utm_medium=inline_cta&utm_campaign=social-media-competitor-analysis"rel="noopener"><button class="btn-first-cta">Get Started FREE</button></a>
+    <a href="https://www.socialchamp.io/pricing/?utm_source=Blog&utm_medium=inline_cta&utm_campaign=social-media-competitor-analysis"target="_blank" rel="noopener"><button class="btn-second-cta">View Pricing</button></a></div>
+    </div>
+
+///New CTA Testing/Not Confirmed for use///
+
+     <div class="main-div" style="background-color:#7E57C2;">
+        <div class="image"><img src="https://www.socialchamp.io/wp-content/uploads/2024/05/CTA-Banner_938x939_v1.png"></div>
+        <div class="content">
+
+            <h3>Social got you stressed out?</h3>
+                <p>Get the ALL-IN-ONE social media performance engine for half the price.</p>
+            <div style="display: inline-flex;"><a href="https://www.socialchamp.io/signup?utm_source=Blog&amp;utm_medium=inline_cta&amp;utm_campaign=Faizan_Dotcom" target="_blank" rel="noopener"><button class="btn-first-cta">Get This Deal</button></a>
+        </div>
+        </div>
+    </div>
+
+///FAQs///
+[faq]Sample Question 1|=|Sample Answer 1|SEP|Sample Question 2|=|Sample Answer 2[/faq]
+
+///Free Tools Code will be given on request from Contact Form///
+
+
