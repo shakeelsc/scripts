@@ -1,3 +1,21 @@
+///New CTA Testing///
+
+<div class="content-upgrade _bonusVariantContentUpgrade style-default    has-image" style="background-color: #0480da;">
+  <a href="https://socialchamp.io/signup" class="cover" target="_blank"></a>
+  <div class="all-content-wrapper">
+    <div class="image-wrapper">
+      <img decoding="async" class="image" src="https://blog.hootsuite.com/wp-content/uploads/2023/01/Inpost-CTA-Planner.png">
+    </div>
+    <div class="text-wrapper">
+      <span class="title">Go Viral with YouTube Shorts!</span>
+      <p class="p1">
+        <strong>Try Social Champ’s scheduling tool to post consistently on the platform. Watch your engagement rise with Social Champ!</strong>
+      </p>
+      <p class="btn-cu">Signup Now!</p>
+    </div>
+  </div>
+</div>
+
 ///Current CTA///
 <div class="blog-cta-inline">
     <div>
@@ -6,19 +24,6 @@
     </div>
     <div style="display: inline-flex;"><a href="https://www.socialchamp.io/signup?utm_source=Blog&utm_medium=inline_cta&utm_campaign=social-media-competitor-analysis"rel="noopener"><button class="btn-first-cta">Get Started FREE</button></a>
     <a href="https://www.socialchamp.io/pricing/?utm_source=Blog&utm_medium=inline_cta&utm_campaign=social-media-competitor-analysis"target="_blank" rel="noopener"><button class="btn-second-cta">View Pricing</button></a></div>
-    </div>
-
-///New CTA Testing/Not Confirmed for use///
-
-     <div class="main-div" style="background-color:#7E57C2;">
-        <div class="image"><img src="https://www.socialchamp.io/wp-content/uploads/2024/05/CTA-Banner_938x939_v1.png"></div>
-        <div class="content">
-
-            <h3>Social got you stressed out?</h3>
-                <p>Get the ALL-IN-ONE social media performance engine for half the price.</p>
-            <div style="display: inline-flex;"><a href="https://www.socialchamp.io/signup?utm_source=Blog&amp;utm_medium=inline_cta&amp;utm_campaign=Faizan_Dotcom" target="_blank" rel="noopener"><button class="btn-first-cta">Get This Deal</button></a>
-        </div>
-        </div>
     </div>
 
 ///FAQs///
@@ -30,6 +35,10 @@
 <ul>
      <li>for bullets points</li></ul>
 </div>
+
+
+///Short CTA Button Only///
+
 
 ///Free Tools Code will be given on request from Contact Form///
 
