@@ -1,17 +1,17 @@
 ///New CTA Testing///
 
-<div class="content-upgrade _bonusVariantContentUpgrade style-default    has-image" style="background-color: #0480da;">
+<div class="content-upgrade _bonusVariantContentUpgrade style-default    has-image" style="background-color: #5C6BC0;">
   <a href="https://socialchamp.io/signup" class="cover" target="_blank"></a>
   <div class="all-content-wrapper">
     <div class="image-wrapper">
-      <img decoding="async" class="image" src="https://blog.hootsuite.com/wp-content/uploads/2023/01/Inpost-CTA-Planner.png">
+      <img decoding="async" class="image" src="https://www.socialchamp.io/wp-content/uploads/2024/07/938X938-1.png">
     </div>
     <div class="text-wrapper">
       <span class="title">Go Viral with YouTube Shorts!</span>
       <p class="p1">
         <strong>Try Social Champ’s scheduling tool to post consistently on the platform. Watch your engagement rise with Social Champ!</strong>
       </p>
-      <p class="btn-cu">Signup Now!</p>
+      <a href="https://socialchamp.io/signup" class="btn-cu" style="background-color; #FFF176;">Signup Now!</a>
     </div>
   </div>
 </div>
