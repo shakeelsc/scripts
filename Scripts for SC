@@ -1,7 +1,7 @@
 ///New CTA 2024///
 
-<div class="content-upgrade _bonusVariantContentUpgrade style-default    has-image" style="background-color: #5C6BC0;">
-  <a href="https://socialchamp.io/signup" class="cover" target="_blank"></a>
+<div class="content-upgrade _bonusVariantContentUpgrade style-default    has-image" style="background-color: #0480da;">
+  <a href="https://www.socialchamp.io/signup?utm_source=Blog&utm_medium=inline_cta&utm_campaign=instagram-posts" class="cover" target="_blank" rel="noopener"></a>
   <div class="all-content-wrapper">
     <div class="image-wrapper">
       <img decoding="async" class="image" src="https://www.socialchamp.io/wp-content/uploads/2024/07/938X938-1.png">
@@ -11,7 +11,7 @@
       <p class="p1">
         <strong>Try Social Champ’s scheduling tool to post consistently on the platform. Watch your engagement rise with Social Champ!</strong>
       </p>
-      <a href="https://socialchamp.io/signup" class="btn-cu" style="background-color; #FFF176;">Signup Now!</a>
+      <p class="btn-cu">Signup Now!</p>
     </div>
   </div>
 </div>
